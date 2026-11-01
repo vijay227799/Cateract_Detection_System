@@ -66,17 +66,6 @@ This will:
   <li>Print the predicted class</li>
 </ul>
 
-<hr>
 
-<h2>📂 Repository Structure</h2>
-<pre>
-├── main.py        # Train ResNet50 for severity regression
-├── test.py        # Test ResNet18 for binary classification
-├── Cataract/
-│   └── processed_images/
-│       ├── train/
-│       └── test/
-└── README.md
-</pre>
 
 
